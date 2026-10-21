@@ -1,0 +1,18 @@
+# AWS credentials and configuration
+aws/
+.aws/
+
+# Python virtual environment
+venv/
+
+# Downloaded AWS CLI installer
+awscliv2.zip
+
+# Logs and generated backups
+backup.log
+backups/
+restore_test/
+
+# Python cache
+__pycache__/
+*.pyc
